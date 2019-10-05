@@ -38,6 +38,7 @@ input {
     display: inline-block;
     vertical-align: middle;
     color: #ec5a62;
+    outline-color: #F1F1F1;
 }
 
 form {
@@ -53,7 +54,6 @@ form {
     font-size: 100px;
     font-weight: bold;
     width: 93%;
-    outline-color: #F1F1F1;
     padding-right: 10px;
 }
 
